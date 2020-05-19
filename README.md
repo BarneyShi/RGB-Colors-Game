@@ -1,5 +1,5 @@
 # RGB-Colors-Game
-Link:http://bit.ly/2PZGkvZ
+Link:https://barneyshi.github.io/RGB-Colors-Game/
 
 
 
